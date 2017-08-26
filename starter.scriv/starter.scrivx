@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2012-04-24 00:00:00 +0000">
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="constitution" Modified="2017-08-26 22:19:27 +0800" ModID="97AA41DE-0E1E-4E08-909A-58409E1759EF">
     <Binder>
-        <BinderItem ID="0" Type="DraftFolder" Created="2012-04-24 00:00:00 +0000" Modified="2012-04-24 00:00:00 +0000">
+        <BinderItem ID="0" UUID="72ADDCAB-BF95-4809-89CA-B45CC6B33157" Type="DraftFolder" Created="2012-04-24 08:00:00 +0800" Modified="2012-04-24 08:00:00 +0800">
             <Title>Draft</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
-        <BinderItem ID="1" Type="ResearchFolder" Created="2012-04-24 00:00:00 +0000" Modified="2012-04-24 00:00:00 +0000">
+        <BinderItem ID="1" UUID="D1D373BC-E93D-4234-A310-C5706068E8E5" Type="ResearchFolder" Created="2012-04-24 08:00:00 +0800" Modified="2012-04-24 08:00:00 +0800">
             <Title>Research</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
-        <BinderItem ID="2" Type="TrashFolder" Created="2012-04-24 00:00:00 +0000" Modified="2012-04-24 00:00:00 +0000">
+        <BinderItem ID="2" UUID="63F5E0B5-230B-485D-8299-DAEB0DF198EE" Type="TrashFolder" Created="2012-04-24 08:00:00 +0800" Modified="2012-04-24 08:00:00 +0800">
             <Title>Trash</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
